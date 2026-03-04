@@ -1,2 +1,4 @@
 get user data
 update user data
+
+create avatar and user
